@@ -1,0 +1,7 @@
+﻿Data Analysis Final Project Checkpoint One
+Dataset: Rental Bike Sharing 
+Business Issue
+I'd like to explore the dataset to see how much people are interested in bike sharing systems, when they are on demand and how it helps people's daily life.
+
+
+*Note: this project contains information from the Capital bike share database which shares data from 2011 till 2016.
